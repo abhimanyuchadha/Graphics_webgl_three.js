@@ -1,2 +1,3 @@
-
-three.js-master\examples\webgl_shading_physical.html
+go to 
+examples
+and run \webgl_shading_physical.html
